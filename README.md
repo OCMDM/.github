@@ -1,6 +1,7 @@
 # OCMDM
 ## Open Computer for Market Diversity Movement
 **About**
+
 An international initiative advocating for a diverse, open and competitive computing market.
 **Our vision**
 - Architectural diversity
